@@ -2,6 +2,7 @@
 
 [![Build Status](http://180.76.142.62:8111/app/rest/builds/buildType:Apollo_Build/statusIcon)](http://180.76.142.62:8111/viewType.html?buildTypeId=Apollo_Build&guest=1)
 [![Simulation Status](https://azure.apollo.auto/dailybuildstatus.svg)](https://azure.apollo.auto/daily-build/public)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSDCND%2Fapollo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSDCND%2Fapollo?ref=badge_shield)
 
 ```
 
@@ -208,6 +209,9 @@ You are welcome to submit questions and bug reports as [GitHub Issues](https://g
 ## Copyright and License
 
 Apollo is provided under the [Apache-2.0 license](https://github.com/ApolloAuto/apollo/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSDCND%2Fapollo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSDCND%2Fapollo?ref=badge_large)
 
 ## Disclaimer
 
